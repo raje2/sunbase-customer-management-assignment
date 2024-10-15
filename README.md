@@ -162,4 +162,4 @@ The Customer Management System is a comprehensive web application designed to ef
 ![Sync & Pagination](/SunbaseAssignment/src/main/resources/static/project-images/sync.png)
 
 ## Contact
-For further suggestions, inquiries, or issues, please contact `rajeshpra673@gmail.com` or visit my portfolio at https://nikhiltaprania.github.io.
+For further suggestions, inquiries, or issues, please contact `rajeshpra673@gmail.com` or visit my portfolio at  https://raje2.github.io.
