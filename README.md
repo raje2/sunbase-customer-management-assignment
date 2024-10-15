@@ -31,7 +31,7 @@ The Customer Management System is a comprehensive web application designed to ef
 1. **Clone the Repository**
 
    ```bash
-   https://github.com/nikhiltaprania/sunbase-assignment
+   https://github.com/raje2/sunbase-customer-management-assignment)
 2. **Set Up the Database**
 - Create a MySQL database and update the database credentials in the `application.properties` file.
 
